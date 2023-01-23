@@ -8,7 +8,7 @@ This project is to use web scraping techniques to investigate unprompted custome
 [Data](#data)  
 [Models](#models)  
 [Repo Structure](#repo-structure)  
-[Conatct](# Contact)  
+[Conatct](#Contact)  
 
 # Background  
 
