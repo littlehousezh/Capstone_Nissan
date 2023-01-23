@@ -8,7 +8,7 @@ This project is to use web scraping techniques to investigate unprompted custome
 [Data](#data)  
 [Models](#models)  
 [Repo Structure](#repo-structure)  
-
+[Conatct](# Contact)  
 
 # Background  
 
@@ -31,7 +31,7 @@ Transformers
 
 # Repo Directory Structure
 
-The repository contains files for Image matching project, coding and other related materials.
+The repository contains files for Nissan Capstone project, coding and other related materials.
 
 Details:
 
@@ -44,3 +44,7 @@ Details:
 Explanation:
 
 The repo is structured as follows: All *0- files contain finalized work for the purpose described (e.g., "models"). 
+
+# Conatct
+
+- Zihan Fang zihan.fang@vanderbilt.edu
