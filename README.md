@@ -17,13 +17,13 @@ Electric vehicles (EVs) are becoming more popular in the United States, with sal
 # Data
 
 The dataset is scraped from the following website/platforms:
-•	https://www.cars.com/ 
-•	https://www.edmunds.com/
-•	https://www.kbb.com/
-•	https://www.consumerreports.org/
-•	YouTube comments
-•	https://www.reddit.com/
-•	fanbase forums: https://www.nissanzclub.com/forum/
+- https://www.cars.com/ 
+- https://www.edmunds.com/
+- https://www.kbb.com/
+- https://www.consumerreports.org/
+- YouTube comments
+- https://www.reddit.com/
+- fanbase forums: https://www.nissanzclub.com/forum/
 
 # Models
 
