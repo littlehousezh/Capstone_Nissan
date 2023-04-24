@@ -39,7 +39,15 @@ Details:
 
 - 0-crawler.ipynb: Python coding notebook for crawlers
 
-- 1-models.ipynb: Python coding notebook for transformer models
+- 1-data_clearning.ipynb: Python coding notebook for cleaning data
+
+- 2-EDA.ipynb: Python coding notebook for exploratory data analysis
+
+- 3-feature_extraction.ipynb: Python coding notebook for LDA and sentiment analysis
+
+- 4-feature_extraction_general.ipynb: Python coding notebook for LDA and sentiment analysis for all EV models
+
+- 4-feature_extraction_models.ipynb: Python coding notebook for LDA and sentiment analysis for seven specific EV models
 
 Explanation:
 
