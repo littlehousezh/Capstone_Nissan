@@ -1,7 +1,6 @@
 # Capstone_Nissan
 
-This project is to use web scraping techniques to investigate unprompted customer voice from social media and forums, such as YouTube, Edmunds, kbb, etc. In this way, Nissan can be more responsive to digital marketing, influencers and make marketing decisions accordingly. Also, web scraping can provide a larger volume of users’ data with higher update frequency. In the end,  tools will be based on web scraping results so that people with non-data backgrounds can understand and access these buyer characteristics data easily.
-
+This project is to use web scraping techniques to investigate unprompted customer voice from social media and forums, such as YouTube, Edmunds, kbb, etc. In this way, Nissan can be more responsive to digital marketing, influencers and make marketing decisions accordingly. Also, web scraping can provide a larger volume of users’ data with higher update frequency. 
 
 # Quick Navigation
 [Background](#background)  
